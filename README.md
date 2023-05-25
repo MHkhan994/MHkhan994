@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align='right' width='400' src='https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1685028764~exp=1685029364~hmac=fce5dff8ee9841be9025bd2ed202f9c501930361d5a8a66c1bba707e5dd37c74'
+<img width='100%' hight='400' src='https://img.freepik.com/free-vector/technology-background-with-earth-globe-binary-code_53876-117938.jpg?w=740&t=st=1685030172~exp=1685030772~hmac=62da3427ba268a07488156c0212856f6de38c9d4897facc16de11ca72b021e4d'/>
+
+<img align='right' width='400' src='https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1685028764~exp=1685029364~hmac=fce5dff8ee9841be9025bd2ed202f9c501930361d5a8a66c1bba707e5dd37c74'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhkhan994&label=Profile%20views&color=0e75b6&style=flat" alt="mhkhan994" /> </p>
 
