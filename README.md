@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">A passionate full stack developer from Bangladesh</h3>
 <img width='100%' hight='400' src='https://img.freepik.com/free-photo/abstract-futuristic-background-with-3d-design_1361-3532.jpg?w=900&t=st=1685030554~exp=1685031154~hmac=b0aa1fe99c457edf2d15dcc51d9578096e74a7ba552d6636b2b0ca3b57e5eba5'/>
 
 <img align='right' width='400' src='https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1685028764~exp=1685029364~hmac=fce5dff8ee9841be9025bd2ed202f9c501930361d5a8a66c1bba707e5dd37c74'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhkhan994&label=Profile%20views&color=0e75b6&style=flat" alt="mhkhan994" /> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **redis, bullQl, nginx**
 
 - 📫 How to reach me **khanmahmud994@gmail.com**
 
