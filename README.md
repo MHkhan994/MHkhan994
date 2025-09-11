@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhkhan994&label=Profile%20views&color=0e75b6&style=flat" alt="mhkhan994" /> </p>
 
-- 🌱 I’m currently learning **redis, bullQl, nginx**
+- 🌱 I’m currently learning **redis, bullMq, nginx**
 
 - 📫 How to reach me **khanmahmud994@gmail.com**
 
