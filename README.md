@@ -1,75 +1,27 @@
-<h1 align="center">Hi 👋, I'm Mahmudul Hasan Khan</h1>
-<h3 align="center">Full-Stack Developer | MERN | Next.js | TypeScript | Building Scalable Web Apps</h3>
+# 💫 About Me:
+Hi 👋, I'm Mahmudul Hasan Khan<br>A full stack developer from Dhaka, Bangladesh<br><br>💼 3+ years building eCommerce platforms and SaaS products end to end, from UI to APIs and databases<br>⚡ Work mostly with Next.js, TypeScript, Node.js, MongoDB, GraphQL and Redis<br>🌐 Portfolio: mahmudulhasan.online<br>📫 Reach me at khanmahmud994@gmail.com
 
-<img width="100%" src="https://img.freepik.com/free-photo/abstract-futuristic-background-with-3d-design_1361-3532.jpg?w=900" alt="banner"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mhkhan994&label=Profile%20views&color=0e75b6&style=flat" alt="mhkhan994" />
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahmudkhan.mahmudkhan.125) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmudul-hasan-khan-a61850263/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanmahmud994@gmail.com) 
 
-### About Me
-- Currently **Full Stack Developer (MERN)** at **SDB IT** (Dec 2023 – Present)  
-- 2+ years of experience delivering production-grade full-stack applications  
-- Passionate about performance, clean architecture, and modern developer experience  
-- Learning **Redis, BullMQ, Nginx, Docker, CI/CD** in depth  
-- Based in **Uttara, Dhaka, Bangladesh**  
-- Reach me → **khanmahmud994@gmail.com** | [+8801770617689](tel:+8801770617689)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MHKhan994&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=MHKhan994&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MHKhan994&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://github.com/mhkhan994" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MHKhan994&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">🛠 Tech Stack</h3>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-**Expertise**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" height="40"/>
-  <img src="https://api.iconify.design/vscode-icons/file-type-material-ui.svg" alt="mui" height="40"/>
-  <img src="https://api.iconify.design/vscode-icons/file-type-tailwind.svg" alt="tailwind" height="40"/>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MHKhan994&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-**Comfortable**  
-<p>
-  Node.js • JWT • TanStack Query • Apollo Client • Stripe • Next UI • Socket.io
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=MHKhan994&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Familiar / Currently Learning**  
-<p>
-  WebSocket • React Native • GraphQL • Docker • Redis • BullMQ • CI/CD • Nginx
-</p>
-
-**Tools**  
-Git • GitHub • VS Code • Chrome DevTools • Netlify • Vercel • Firebase • Photoshop
-
-<h3 align="left">Featured Project – E-Commerce Platform for IT Products</h3>
-
-**Live Demo:** (add if deployed)  
-**Role:** Full Stack Developer  
-**Tech:** Next.js • React.js • TypeScript • Node.js • Express • MongoDB • Redux Toolkit • RTK Query • Tailwind CSS • Redis • BullMQ • JWT
-
-- Complete **PC Builder** & product comparison tool  
-- Dynamic filtering, wishlist, cart, secure checkout  
-- Full admin panel with role-based access, product/category/brand management, deals & analytics  
-- Real-time notifications via **WebSocket**  
-- Background jobs & email queues with **BullMQ + Redis**  
-- Highly optimized state management and performance  
-
-<h3 align="left">GitHub Stats</h3>
-
-![Metrics](https://metrics.lecoq.io/MHkhan994)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhkhan994&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<h3 align="left">Let's build something amazing together! 🚀</h3>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
